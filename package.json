@@ -1,0 +1,20 @@
+{
+  "name": "cloud_computing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neharmenon05/static_web_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neharmenon05/static_web_app/issues"
+  },
+  "homepage": "https://github.com/neharmenon05/static_web_app#readme",
+  "description": ""
+}
